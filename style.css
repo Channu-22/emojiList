@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background-color: #ffdfbb;
+    font-family:sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 50px;
+}
+ 
+.nav{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.filterBtn{
+    padding:10px;
+    color:#000;
+    font-size: 17px;
+    font-weight:bold;
+    background-color: #e3b37c;
+    border: none;
+    border-radius:5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #fca56b;
+}
+.input{
+    margin-left:5px;
+    padding:10px 25px 10px 10px;
+    border:none;
+    border-radius:22px;
+    font-size: 17px;
+    outline: none;
+}
+/* #emojiFilter{
+    margin:1.5rem;
+    padding:10px;
+} */
+#allEmojis {
+    margin: 2rem 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 20px;
+}
+.icon{
+    display: inline-block;
+    width: 50px;
+    font-size:50px;
+    cursor: pointer;
+}
