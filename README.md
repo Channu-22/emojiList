@@ -1,6 +1,5 @@
 HostLink ==> https://emojilist-peach.vercel.app/
 
-=====Emojee - Emoji 🔍 Application====
 😎 emojiList - Search & Filter Emoji App
 emojiList is a fun and responsive emoji explorer built using plain HTML, JavaScript, and Vanilla CSS. It allows users to search emojis by name and filter them by category — all in a clean, user-friendly interface.
 
