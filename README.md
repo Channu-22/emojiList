@@ -12,4 +12,3 @@ emojiList is a fun and responsive emoji explorer built using plain HTML, JavaScr
 
 📱 Responsive Design – Looks great on all devices
 
-💯 300+ Emojis – Loaded from a single emojiList.js file
